@@ -1,0 +1,4 @@
+org.springframework.context.ApplicationListener=\
+com.qudehu.listener.ConstantsInitListener,\
+com.qudehu.listener.TimerTaskRunListener,\
+com.qudehu.listener.RemoveQueryParamListener
