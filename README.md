@@ -98,5 +98,9 @@
 	└── src/main/resources
 		├── templates 代码生成模板
 		└── gencode.setting 代码生成配置文件
+		
+├── qudehu-generator-web  代码生成器UI
+	└── src/test/java/com/dehu/generatorweb/GeberatorUIServer.java 代码生成器主类
+
 	
 ```
